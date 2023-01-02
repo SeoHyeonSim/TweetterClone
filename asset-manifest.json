@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TweetterClone/static/css/main.f8cfe2e1.css",
+    "main.js": "/TweetterClone/static/js/main.3291ebc6.js",
+    "index.html": "/TweetterClone/index.html",
+    "main.f8cfe2e1.css.map": "/TweetterClone/static/css/main.f8cfe2e1.css.map",
+    "main.3291ebc6.js.map": "/TweetterClone/static/js/main.3291ebc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8cfe2e1.css",
+    "static/js/main.3291ebc6.js"
+  ]
+}
